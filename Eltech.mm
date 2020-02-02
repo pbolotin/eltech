@@ -64,15 +64,18 @@
 </map_styles>
 </hook>
 <hook NAME="AutomaticEdgeColor" COUNTER="4" RULE="ON_BRANCH_CREATION"/>
-<node TEXT="&#x417;&#x430;&#x43f;&#x438;&#x441;&#x438; &#x442;&#x435;&#x442;&#x440;&#x430;&#x434;&#x44c;" POSITION="right" ID="ID_1670586439" CREATED="1580617594812" MODIFIED="1580617600242">
+<node TEXT="&#x417;&#x430;&#x43f;&#x438;&#x441;&#x438; &#x442;&#x435;&#x442;&#x440;&#x430;&#x434;&#x44c;" POSITION="right" ID="ID_1670586439" CREATED="1580617594812" MODIFIED="1580625323057">
+<icon BUILTIN="button_ok"/>
 <edge COLOR="#ff0000"/>
 <font BOLD="true"/>
 </node>
-<node TEXT="&#x417;&#x430;&#x43f;&#x438;&#x441;&#x438; &#x430;&#x443;&#x434;&#x438;&#x43e;" POSITION="right" ID="ID_1916481892" CREATED="1580617600951" MODIFIED="1580617604729">
+<node TEXT="&#x417;&#x430;&#x43f;&#x438;&#x441;&#x438; &#x430;&#x443;&#x434;&#x438;&#x43e;" POSITION="right" ID="ID_1916481892" CREATED="1580617600951" MODIFIED="1580625320753">
+<icon BUILTIN="button_ok"/>
 <edge COLOR="#0000ff"/>
 <font BOLD="true"/>
 </node>
-<node TEXT="&#x417;&#x430;&#x43f;&#x438;&#x441;&#x438; &#x442;&#x435;&#x43a;&#x441;&#x442;" POSITION="right" ID="ID_784859521" CREATED="1580617605007" MODIFIED="1580617609145">
+<node TEXT="&#x417;&#x430;&#x43f;&#x438;&#x441;&#x438; &#x442;&#x435;&#x43a;&#x441;&#x442;" POSITION="right" ID="ID_784859521" CREATED="1580617605007" MODIFIED="1580625315433">
+<icon BUILTIN="button_cancel"/>
 <edge COLOR="#00ff00"/>
 <font BOLD="true"/>
 </node>
