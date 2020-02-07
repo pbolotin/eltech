@@ -928,7 +928,7 @@
 <hook URI="Eltech_files/9878_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_03.png" SIZE="0.6329114" NAME="ExternalObject"/>
 </node>
 </node>
-<node TEXT="&#x41c;&#x43e;&#x439; &#x432;&#x430;&#x440;&#x438;&#x430;&#x43d;&#x442;" ID="ID_946047479" CREATED="1580838277560" MODIFIED="1580838281226">
+<node TEXT="&#x41c;&#x43e;&#x439; &#x432;&#x430;&#x440;&#x438;&#x430;&#x43d;&#x442;" FOLDED="true" ID="ID_946047479" CREATED="1580838277560" MODIFIED="1581079117480">
 <font BOLD="true"/>
 <node TEXT="&#x422;&#x438;&#x43f; &#x434;&#x438;&#x43e;&#x434;&#x430;" ID="ID_507717324" CREATED="1580838281943" MODIFIED="1580838294548">
 <font BOLD="true"/>
@@ -948,7 +948,7 @@
 <font BOLD="true"/>
 <node TEXT="200" ID="ID_1587161786" CREATED="1580838314812" MODIFIED="1580838318276"/>
 </node>
-<node TEXT="&#x41d;&#x430;&#x43f;&#x440;&#x44f;&#x436;&#x435;&#x43d;&#x438;&#x435; &#x438;&#x441;&#x442;&#x43e;&#x447;&#x43d;&#x438;&#x43a;&#x430;" ID="ID_1260556826" CREATED="1580838321006" MODIFIED="1580838326825">
+<node TEXT="&#x41d;&#x430;&#x43f;&#x440;&#x44f;&#x436;&#x435;&#x43d;&#x438;&#x435; &#x438;&#x441;&#x442;&#x43e;&#x447;&#x43d;&#x438;&#x43a;&#x430;" ID="ID_1260556826" CREATED="1580838321006" MODIFIED="1581079117480">
 <font BOLD="true"/>
 <node TEXT="2" ID="ID_1396243472" CREATED="1580838327839" MODIFIED="1580838329149"/>
 </node>
@@ -968,7 +968,7 @@
 </node>
 <node TEXT="&#x41f;&#x440;&#x438;&#x43c;&#x435;&#x440; &#x440;&#x435;&#x448;&#x435;&#x43d;&#x438;&#x44f;" FOLDED="true" ID="ID_176400387" CREATED="1580838425978" MODIFIED="1581014238579">
 <font BOLD="true"/>
-<node TEXT="&#x418;&#x441;&#x445;&#x43e;&#x434;&#x43d;&#x44b;&#x435; &#x434;&#x430;&#x43d;&#x43d;&#x44b;&#x435;" ID="ID_64661647" CREATED="1580986342476" MODIFIED="1580986855043">
+<node TEXT="&#x418;&#x441;&#x445;&#x43e;&#x434;&#x43d;&#x44b;&#x435; &#x434;&#x430;&#x43d;&#x43d;&#x44b;&#x435;" FOLDED="true" ID="ID_64661647" CREATED="1580986342476" MODIFIED="1580986855043">
 <font BOLD="true"/>
 <node TEXT="&#x422;&#x438;&#x43f; &#x434;&#x438;&#x43e;&#x434;&#x430;" FOLDED="true" ID="ID_99125489" CREATED="1580986349296" MODIFIED="1580986352069">
 <font BOLD="true"/>
@@ -1082,7 +1082,7 @@
 </node>
 </node>
 </node>
-<node TEXT="&#x412;&#x442;&#x43e;&#x440;&#x43e;&#x439; &#x43f;&#x443;&#x43d;&#x43a;&#x442; &#x437;&#x430;&#x434;&#x430;&#x447;&#x438;" ID="ID_10304173" CREATED="1581013792537" MODIFIED="1581013796640">
+<node TEXT="&#x412;&#x442;&#x43e;&#x440;&#x43e;&#x439; &#x43f;&#x443;&#x43d;&#x43a;&#x442; &#x437;&#x430;&#x434;&#x430;&#x447;&#x438;" FOLDED="true" ID="ID_10304173" CREATED="1581013792537" MODIFIED="1581013796640">
 <font BOLD="true"/>
 <node TEXT="&#x417;&#x430;&#x434;&#x430;&#x447;&#x430;" FOLDED="true" ID="ID_1916222676" CREATED="1581013806796" MODIFIED="1581013808683">
 <font BOLD="true"/>
@@ -1117,7 +1117,7 @@
 </node>
 <node TEXT="&#x422;&#x440;&#x435;&#x442;&#x438;&#x439; &#x43f;&#x443;&#x43d;&#x43a;&#x442; &#x437;&#x430;&#x434;&#x430;&#x447;&#x438;" FOLDED="true" ID="ID_590384477" CREATED="1581014063641" MODIFIED="1581014067136">
 <font BOLD="true"/>
-<node TEXT="&#x424;&#x43e;&#x440;&#x43c;&#x443;&#x43b;&#x438;&#x440;&#x43e;&#x432;&#x43a;&#x430;" FOLDED="true" ID="ID_176920439" CREATED="1581014067760" MODIFIED="1581014070116">
+<node TEXT="&#x424;&#x43e;&#x440;&#x43c;&#x443;&#x43b;&#x438;&#x440;&#x43e;&#x432;&#x43a;&#x430;" ID="ID_176920439" CREATED="1581014067760" MODIFIED="1581014070116">
 <font BOLD="true"/>
 <node TEXT="9853_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_03.png" ID="ID_416344665" CREATED="1581014074234" MODIFIED="1581014074234">
 <hook URI="Eltech_files/9853_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_03.png" SIZE="0.5899705" NAME="ExternalObject"/>
@@ -1132,13 +1132,13 @@
 <hook URI="Eltech_files/9849_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_03.png" SIZE="0.63424945" NAME="ExternalObject"/>
 </node>
 </node>
-<node TEXT="&#x422;&#x43e;&#x447;&#x43a;&#x430; &#x43f;&#x435;&#x440;&#x435;&#x441;&#x435;&#x447;&#x435;&#x43d;&#x438;&#x44f; &#x441; &#x412;&#x410;&#x425;" FOLDED="true" ID="ID_764609250" CREATED="1581014152242" MODIFIED="1581014158669">
+<node TEXT="&#x422;&#x43e;&#x447;&#x43a;&#x430; &#x43f;&#x435;&#x440;&#x435;&#x441;&#x435;&#x447;&#x435;&#x43d;&#x438;&#x44f; &#x441; &#x412;&#x410;&#x425;" ID="ID_764609250" CREATED="1581014152242" MODIFIED="1581014158669">
 <font BOLD="true"/>
 <node TEXT="9851_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_03.png" ID="ID_142311704" CREATED="1581014163458" MODIFIED="1581014163458">
 <hook URI="Eltech_files/9851_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_03.png" SIZE="0.58939093" NAME="ExternalObject"/>
 </node>
 </node>
-<node TEXT="&#x420;&#x435;&#x437;&#x443;&#x43b;&#x44c;&#x442;&#x430;&#x442; &#x43e;&#x43f;&#x440;&#x435;&#x434;&#x435;&#x43b;&#x435;&#x43d;&#x438;&#x44f;" FOLDED="true" ID="ID_1274011988" CREATED="1581014164972" MODIFIED="1581014168653">
+<node TEXT="&#x420;&#x435;&#x437;&#x443;&#x43b;&#x44c;&#x442;&#x430;&#x442; &#x43e;&#x43f;&#x440;&#x435;&#x434;&#x435;&#x43b;&#x435;&#x43d;&#x438;&#x44f;" ID="ID_1274011988" CREATED="1581014164972" MODIFIED="1581014168653">
 <font BOLD="true"/>
 <node TEXT="9850_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_03.png" ID="ID_1744256486" CREATED="1581014178495" MODIFIED="1581014178495">
 <hook URI="Eltech_files/9850_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_03.png" SIZE="1.0" NAME="ExternalObject"/>
@@ -1214,6 +1214,306 @@
 </node>
 <node TEXT="&#x41f;&#x440;&#x438;&#x43c;&#x435;&#x440; &#x440;&#x435;&#x448;&#x435;&#x43d;&#x438;&#x44f;" ID="ID_688736238" CREATED="1581050879539" MODIFIED="1581050882423">
 <font BOLD="true"/>
+<node TEXT="&#x427;&#x442;&#x43e; &#x434;&#x430;&#x43d;&#x43e;" FOLDED="true" ID="ID_1607133997" CREATED="1581081184412" MODIFIED="1581081188796">
+<font BOLD="true"/>
+<node TEXT="&#x422;&#x440;&#x430;&#x43d;&#x437;&#x438;&#x441;&#x442;&#x43e;&#x440;" FOLDED="true" ID="ID_393174320" CREATED="1581081193460" MODIFIED="1581081196206">
+<font BOLD="true"/>
+<node TEXT="9839_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" ID="ID_454977300" CREATED="1581081209548" MODIFIED="1581081209548">
+<hook URI="Eltech_files/9839_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="1.0" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x41d;&#x430;&#x43f;&#x440;&#x44f;&#x436;&#x435;&#x43d;&#x438;&#x435;" FOLDED="true" ID="ID_1822458353" CREATED="1581081213636" MODIFIED="1581081219626">
+<font BOLD="true"/>
+<node TEXT="9838_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" ID="ID_376469252" CREATED="1581081231186" MODIFIED="1581081231186">
+<hook URI="Eltech_files/9838_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="1.0" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x421;&#x43e;&#x43f;&#x440;&#x43e;&#x442;&#x438;&#x432;&#x43b;&#x435;&#x43d;&#x438;&#x435;" FOLDED="true" ID="ID_1772258949" CREATED="1581081235382" MODIFIED="1581081239407">
+<font BOLD="true"/>
+<node TEXT="9837_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" ID="ID_1542680672" CREATED="1581081251235" MODIFIED="1581081251235">
+<hook URI="Eltech_files/9837_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="1.0" NAME="ExternalObject"/>
+</node>
+<node TEXT="9836_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" ID="ID_1263346249" CREATED="1581081262101" MODIFIED="1581081262101">
+<hook URI="Eltech_files/9836_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="1.0" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x422;&#x43e;&#x43a; &#x441;&#x43c;&#x435;&#x449;&#x435;&#x43d;&#x438;&#x44f;" FOLDED="true" ID="ID_1126664155" CREATED="1581081271242" MODIFIED="1581095070415">
+<font BOLD="true"/>
+<node TEXT="9835_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" ID="ID_1981455435" CREATED="1581081288038" MODIFIED="1581095070415">
+<hook URI="Eltech_files/9835_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="0.96" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x410;&#x43c;&#x43f;&#x43b;&#x438;&#x442;&#x443;&#x434;&#x430;" FOLDED="true" ID="ID_919763455" CREATED="1581081401278" MODIFIED="1581081408532">
+<font BOLD="true"/>
+<node TEXT="9834_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" ID="ID_1906307564" CREATED="1581081415272" MODIFIED="1581081415272">
+<hook URI="Eltech_files/9834_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="1.0" NAME="ExternalObject"/>
+</node>
+<node TEXT="9833_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" ID="ID_552522229" CREATED="1581081432110" MODIFIED="1581081432110">
+<hook URI="Eltech_files/9833_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="1.0" NAME="ExternalObject"/>
+</node>
+</node>
+</node>
+<node TEXT="&#x412;&#x44b;&#x445;&#x43e;&#x434;&#x43d;&#x44b;&#x435; &#x445;&#x430;&#x440;&#x430;&#x43a;&#x442;&#x435;&#x440;&#x438;&#x441;&#x442;&#x438;&#x43a;&#x438;" ID="ID_312785015" CREATED="1581081506672" MODIFIED="1581081513427">
+<font BOLD="true"/>
+<node TEXT="9831_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" ID="ID_1777157516" CREATED="1581081558628" MODIFIED="1581081558628">
+<hook URI="Eltech_files/9831_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="0.5703422" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x420;&#x438;&#x441;&#x443;&#x43d;&#x43e;&#x43a; 1.1" ID="ID_1304223902" CREATED="1581081547279" MODIFIED="1581082379510">
+<font BOLD="true"/>
+<node TEXT="9832_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" ID="ID_30006332" CREATED="1581081520229" MODIFIED="1581081520229">
+<hook URI="Eltech_files/9832_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="0.6103764" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x41e;&#x431;&#x449;&#x435;&#x435; &#x43e; &#x43d;&#x430;&#x433;&#x440;&#x443;&#x437;&#x43e;&#x447;&#x43d;&#x43e;&#x439; &#x43b;&#x438;&#x43d;&#x438;&#x438;" FOLDED="true" ID="ID_113508343" CREATED="1581081872530" MODIFIED="1581081878473">
+<font BOLD="true"/>
+<node TEXT="&#x41d;&#x430;&#x433;&#x440;&#x443;&#x437;&#x43e;&#x447;&#x43d;&#x430;&#x44f; &#x43b;&#x438;&#x43d;&#x438;&#x44f;" FOLDED="true" ID="ID_623546557" CREATED="1581081578161" MODIFIED="1581081581561">
+<font BOLD="true"/>
+<node TEXT="9830_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" ID="ID_834415052" CREATED="1581081598667" MODIFIED="1581081598667">
+<hook URI="Eltech_files/9830_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="0.6629834" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x41e;&#x440;&#x434;&#x438;&#x43d;&#x430;&#x442;&#x430; &#x43b;&#x438;&#x43d;&#x438;&#x438; &#x43f;&#x440;&#x438; 0" FOLDED="true" ID="ID_1860523521" CREATED="1581081653065" MODIFIED="1581081662597">
+<font BOLD="true"/>
+<node TEXT="9829_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" ID="ID_184144797" CREATED="1581081667495" MODIFIED="1581081667495">
+<hook URI="Eltech_files/9829_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="0.75376886" NAME="ExternalObject"/>
+</node>
+<node TEXT="9828_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" ID="ID_629587098" CREATED="1581081683714" MODIFIED="1581081683714">
+<hook URI="Eltech_files/9828_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="1.0" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x410;&#x431;&#x441;&#x446;&#x438;&#x441;&#x441;&#x430; &#x43f;&#x440;&#x438; &#x43d;&#x443;&#x43b;&#x435;" FOLDED="true" ID="ID_511691428" CREATED="1581081796315" MODIFIED="1581081801650">
+<font BOLD="true"/>
+<node TEXT="9827_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" ID="ID_956628072" CREATED="1581081807485" MODIFIED="1581081807485">
+<hook URI="Eltech_files/9827_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="1.0" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x421;&#x43e;&#x435;&#x434;&#x438;&#x43d;&#x435;&#x43d;&#x438;&#x435; = &#x43f;&#x43e;&#x441;&#x442;&#x440;&#x43e;&#x435;&#x43d;&#x438;&#x435;" FOLDED="true" ID="ID_710833485" CREATED="1581081828565" MODIFIED="1581081835819">
+<font BOLD="true"/>
+<node TEXT="9826_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" ID="ID_921119349" CREATED="1581081842714" MODIFIED="1581081842714">
+<hook URI="Eltech_files/9826_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="0.58651024" NAME="ExternalObject"/>
+</node>
+</node>
+</node>
+<node TEXT="&#x41d;&#x430;&#x448; &#x441;&#x43b;&#x443;&#x447;&#x430;&#x439; &#x43d;&#x430;&#x433;&#x440;&#x443;&#x437;&#x43e;&#x447;&#x43d;&#x43e;&#x439; &#x43b;&#x438;&#x43d;&#x438;&#x438;" FOLDED="true" ID="ID_174532297" CREATED="1581081860689" MODIFIED="1581081912466">
+<font BOLD="true"/>
+<node TEXT="9825_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" ID="ID_1646005953" CREATED="1581081918581" MODIFIED="1581081918581">
+<hook URI="Eltech_files/9825_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="0.5703422" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x420;&#x430;&#x431;&#x43e;&#x447;&#x430;&#x44f; &#x442;&#x43e;&#x447;&#x43a;&#x430;" ID="ID_830674117" CREATED="1581081972848" MODIFIED="1581082006107">
+<font BOLD="true"/>
+<node TEXT="9824_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" ID="ID_288318417" CREATED="1581081996763" MODIFIED="1581081996763">
+<hook URI="Eltech_files/9824_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="0.5797101" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x41d;&#x430;&#x448; &#x441;&#x43b;&#x443;&#x447;&#x430;&#x439; &#x440;&#x430;&#x431;&#x43e;&#x447;&#x435;&#x439; &#x442;&#x43e;&#x447;&#x43a;&#x438;" FOLDED="true" ID="ID_1614999507" CREATED="1581082025823" MODIFIED="1581082031127">
+<font BOLD="true"/>
+<node TEXT="9823_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" ID="ID_338793638" CREATED="1581082036712" MODIFIED="1581082036712">
+<hook URI="Eltech_files/9823_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="0.5797101" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x421;&#x430;&#x43c;&#x43e;&#x441;&#x442;&#x43e;&#x44f;&#x442;&#x435;&#x43b;&#x44c;&#x43d;&#x43e;&#x435; &#x43f;&#x43e;&#x441;&#x442;&#x440;&#x43e;&#x435;&#x43d;&#x438;&#x435;" FOLDED="true" ID="ID_1412462763" CREATED="1581082055237" MODIFIED="1581082060635">
+<font BOLD="true"/>
+<node TEXT="9822_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" ID="ID_1543958546" CREATED="1581082065065" MODIFIED="1581082065065">
+<hook URI="Eltech_files/9822_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="0.5797101" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x41a;&#x43e;&#x43e;&#x440;&#x434;&#x438;&#x43d;&#x430;&#x442;&#x44b; &#x440;&#x430;&#x431;&#x43e;&#x447;&#x435;&#x439; &#x442;&#x43e;&#x447;&#x43a;&#x438;" FOLDED="true" ID="ID_149812036" CREATED="1581082091728" MODIFIED="1581082097017">
+<font BOLD="true"/>
+<node TEXT="9821_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" ID="ID_1260584508" CREATED="1581082101837" MODIFIED="1581082101837">
+<hook URI="Eltech_files/9821_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="0.58536583" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x41e;&#x43f;&#x440;&#x435;&#x434;&#x435;&#x43b;&#x44f;&#x435;&#x43c; &#x43f;&#x430;&#x440;&#x430;&#x43c;&#x435;&#x442;&#x440;&#x44b;" FOLDED="true" ID="ID_1780248103" CREATED="1581082122999" MODIFIED="1581082128318">
+<font BOLD="true"/>
+<node TEXT="9820_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" ID="ID_832166231" CREATED="1581082132624" MODIFIED="1581082132624">
+<hook URI="Eltech_files/9820_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="0.8888889" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x420;&#x438;&#x441;&#x443;&#x43d;&#x43e;&#x43a; 1.2" FOLDED="true" ID="ID_1047371965" CREATED="1581082205015" MODIFIED="1581082375205">
+<font BOLD="true"/>
+<node TEXT="9819_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" ID="ID_1501361947" CREATED="1581082214203" MODIFIED="1581082214203">
+<hook URI="Eltech_files/9819_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="0.6514658" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x420;&#x430;&#x431;&#x43e;&#x447;&#x430;&#x44f; &#x442;&#x43e;&#x447;&#x43a;&#x430; &#x43d;&#x430; &#x432;&#x445;&#x43e;&#x434;&#x43d;&#x44b;&#x445;" FOLDED="true" ID="ID_1688857" CREATED="1581082357748" MODIFIED="1581082364644">
+<font BOLD="true"/>
+<node TEXT="9818_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" ID="ID_1880187217" CREATED="1581082369027" MODIFIED="1581082369027">
+<hook URI="Eltech_files/9818_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="0.57251906" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x421;&#x43e;&#x432;&#x43f;&#x430;&#x434;&#x435;&#x43d;&#x438;&#x435; &#x438; &#x43c;&#x43e;&#x436;&#x43d;&#x43e;..." FOLDED="true" ID="ID_751229986" CREATED="1581082440582" MODIFIED="1581082466516">
+<font BOLD="true"/>
+<node TEXT="9817_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" ID="ID_90871274" CREATED="1581082471025" MODIFIED="1581082471025">
+<hook URI="Eltech_files/9817_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="0.57251906" NAME="ExternalObject"/>
+</node>
+<node TEXT="9816_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" ID="ID_1713990666" CREATED="1581082490443" MODIFIED="1581082490443">
+<hook URI="Eltech_files/9816_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="1.0" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x41f;&#x43e; &#x438;&#x437;&#x43c;&#x435;&#x43d;&#x435;&#x43d;&#x438;&#x44e; sin &#x442;&#x43e;&#x43a;&#x430;, &#x433;&#x440;&#x430;&#x444;&#x438;&#x447;&#x435;&#x441;&#x43a;&#x438;" FOLDED="true" ID="ID_581974487" CREATED="1581082550318" MODIFIED="1581082558851">
+<font BOLD="true"/>
+<node TEXT="9815_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" ID="ID_1966284350" CREATED="1581082563219" MODIFIED="1581082563219">
+<hook URI="Eltech_files/9815_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="0.5888126" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x412;&#x440;&#x435;&#x43c;&#x435;&#x43d;&#x43d;&#x44b;&#x435; &#x434;&#x438;&#x430;&#x433;&#x440;&#x430;&#x43c;&#x43c;&#x44b;" FOLDED="true" ID="ID_78541740" CREATED="1581082603842" MODIFIED="1581082614726">
+<font BOLD="true"/>
+<node TEXT="9814_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" ID="ID_1215495374" CREATED="1581082619686" MODIFIED="1581082619686">
+<hook URI="Eltech_files/9814_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="0.58536583" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x41f;&#x440;&#x43e;&#x442;&#x438;&#x432;&#x43e;&#x444;&#x430;&#x437;&#x430;, &#x43c;&#x430;&#x441;&#x448;&#x442;&#x430;&#x431;" FOLDED="true" ID="ID_376749238" CREATED="1581082657193" MODIFIED="1581082691326">
+<font BOLD="true"/>
+<node TEXT="9813_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" ID="ID_1029812617" CREATED="1581082671046" MODIFIED="1581082671046">
+<hook URI="Eltech_files/9813_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="0.57251906" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x41e;&#x446;&#x435;&#x43d;&#x43a;&#x430; &#x438;&#x441;&#x43a;&#x430;&#x436;&#x435;&#x43d;&#x438;&#x439;" FOLDED="true" ID="ID_1301966859" CREATED="1581082704393" MODIFIED="1581082708699">
+<font BOLD="true"/>
+<node TEXT="9812_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" ID="ID_1138538441" CREATED="1581082712692" MODIFIED="1581082712692">
+<hook URI="Eltech_files/9812_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="0.57251906" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x414;&#x432;&#x438;&#x436;&#x435;&#x43d;&#x438;&#x435; &#x420;&#x422; &#x43f;&#x43e; &#x43b;&#x438;&#x43d;&#x438;&#x438;" FOLDED="true" ID="ID_1826229843" CREATED="1581082746687" MODIFIED="1581082758496">
+<font BOLD="true"/>
+<node TEXT="9811_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" ID="ID_1301129819" CREATED="1581082763831" MODIFIED="1581082763831">
+<hook URI="Eltech_files/9811_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="0.5714286" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x415;&#x441;&#x43b;&#x438; &#x420;&#x422; &#x437;&#x430;&#x43f;&#x440;&#x435;&#x434;&#x435;&#x43b;&#x44c;&#x43d;&#x430;" FOLDED="true" ID="ID_1555829949" CREATED="1581082809588" MODIFIED="1581082815500">
+<font BOLD="true"/>
+<node TEXT="9810_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" ID="ID_787625491" CREATED="1581082819634" MODIFIED="1581082819634">
+<hook URI="Eltech_files/9810_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="0.5714286" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x41e; &#x434;&#x430;&#x43b;&#x44c;&#x43d;&#x435;&#x439;&#x448;&#x438;&#x445; &#x440;&#x430;&#x441;&#x447;&#x451;&#x442;&#x430;&#x445;" FOLDED="true" ID="ID_458524180" CREATED="1581082843990" MODIFIED="1581082849575">
+<font BOLD="true"/>
+<node TEXT="9809_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" ID="ID_1038515656" CREATED="1581082855409" MODIFIED="1581082855409">
+<hook URI="Eltech_files/9809_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="0.58195925" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x41d;&#x435;&#x43e;&#x434;&#x438;&#x43d;&#x430;&#x43a;&#x43e;&#x432;&#x43e;&#x441;&#x442;&#x44c; &#x43d;&#x430; &#x43f;&#x43e;&#x43b;&#x443;&#x432;&#x43e;&#x43b;&#x43d;&#x430;&#x445;" FOLDED="true" ID="ID_1041303198" CREATED="1581083006318" MODIFIED="1581083013291">
+<font BOLD="true"/>
+<node TEXT="9808_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" ID="ID_1926098312" CREATED="1581083017971" MODIFIED="1581083017971">
+<hook URI="Eltech_files/9808_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="0.56925994" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x414;&#x430;&#x43b;&#x44c;&#x448;&#x435; - &#x441;&#x440;&#x435;&#x434;&#x43d;&#x44f;&#x44f; &#x430;&#x43c;&#x43f;&#x43b;&#x438;&#x442;&#x443;&#x434;&#x430;" FOLDED="true" ID="ID_1878988303" CREATED="1581083056305" MODIFIED="1581083061313">
+<font BOLD="true"/>
+<node TEXT="9807_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" ID="ID_1010819323" CREATED="1581083066352" MODIFIED="1581083066352">
+<hook URI="Eltech_files/9807_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="0.5952381" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x41f;&#x43e; &#x432;&#x44b;&#x445;&#x43e;&#x434;&#x43d;&#x44b;&#x43c; &#x445;&#x430;&#x440;. &#x440;&#x438;&#x441; 1.1 &#x430;&#x43c;&#x43f;&#x43b;&#x438;&#x442;&#x443;&#x434;&#x44b;" FOLDED="true" ID="ID_836530963" CREATED="1581084893560" MODIFIED="1581085065375">
+<font BOLD="true"/>
+<node TEXT="9806_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" ID="ID_1825940365" CREATED="1581084909440" MODIFIED="1581084909440">
+<hook URI="Eltech_files/9806_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="0.5703422" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x414;&#x430;&#x43b;&#x44c;&#x448;&#x435;, &#x441;&#x440;&#x435;&#x434;&#x43d;&#x435;&#x435; &#x430;&#x43c;&#x43f;&#x43b;&#x438;&#x442;&#x443;&#x434;" FOLDED="true" ID="ID_1608784083" CREATED="1581084922950" MODIFIED="1581084928816">
+<font BOLD="true"/>
+<node TEXT="9805_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" ID="ID_438572816" CREATED="1581084943378" MODIFIED="1581084943378">
+<hook URI="Eltech_files/9805_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="0.7662835" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x41f;&#x43e; &#x432;&#x445;&#x43e;&#x434;&#x43d;&#x44b;&#x43c; &#x445;&#x430;&#x440;. &#x43d;&#x430;&#x43f;&#x440;&#x44f;&#x436;&#x435;&#x43d;&#x438;&#x44f;" FOLDED="true" ID="ID_889552836" CREATED="1581085011181" MODIFIED="1581085074860">
+<font BOLD="true"/>
+<node TEXT="9804_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" ID="ID_1412538897" CREATED="1581085036125" MODIFIED="1581085036125">
+<hook URI="Eltech_files/9804_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="0.729927" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x41e;&#x43f;&#x440;&#x435;&#x434;&#x435;&#x43b;&#x44f;&#x435;&#x43c; &#x43a;&#x43e;&#x44d;&#x444;&#x444;&#x438;&#x446;&#x438;&#x435;&#x43d;&#x442;&#x44b;" FOLDED="true" ID="ID_404823788" CREATED="1581085094433" MODIFIED="1581085101203">
+<font BOLD="true"/>
+<node TEXT="9803_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" ID="ID_469234942" CREATED="1581085105992" MODIFIED="1581085105992">
+<hook URI="Eltech_files/9803_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="0.78125" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x41d;&#x430;&#x445;&#x43e;&#x434;&#x438;&#x43c; &#x441;&#x43e;&#x43f;&#x440;&#x43e;&#x442;&#x438;&#x432;&#x43b;&#x435;&#x43d;&#x438;&#x435;" FOLDED="true" ID="ID_153054638" CREATED="1581085118583" MODIFIED="1581085122187">
+<font BOLD="true"/>
+<node TEXT="9802_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" ID="ID_453837202" CREATED="1581085126290" MODIFIED="1581085126290">
+<hook URI="Eltech_files/9802_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="1.0" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x41e;&#x43f;&#x440;&#x435;&#x434;&#x435;&#x43b;&#x44f;&#x435;&#x43c; &#x43c;&#x43e;&#x449;&#x43d;&#x43e;&#x441;&#x442;&#x438;" FOLDED="true" ID="ID_63329904" CREATED="1581085149658" MODIFIED="1581085154510">
+<font BOLD="true"/>
+<node TEXT="9801_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" ID="ID_371841052" CREATED="1581085160734" MODIFIED="1581085160734">
+<hook URI="Eltech_files/9801_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="0.57361376" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x41a;&#x41f;&#x414; &#x43a;&#x430;&#x441;&#x43a;&#x430;&#x434;&#x430;" FOLDED="true" ID="ID_797872263" CREATED="1581085182560" MODIFIED="1581085185540">
+<font BOLD="true"/>
+<node TEXT="9800_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" ID="ID_578563866" CREATED="1581085189767" MODIFIED="1581085189767">
+<hook URI="Eltech_files/9800_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="0.8321775" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x420;&#x438;&#x441;&#x443;&#x43d;&#x43e;&#x43a; 2.1" FOLDED="true" ID="ID_102841747" CREATED="1581085270229" MODIFIED="1581085276079">
+<font BOLD="true"/>
+<node TEXT="9799_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" ID="ID_1686788518" CREATED="1581085277733" MODIFIED="1581085277733">
+<hook URI="Eltech_files/9799_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="0.75" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="h-&#x43f;&#x430;&#x440;&#x430;&#x43c;&#x435;&#x442;&#x440;&#x44b; &#x43f;&#x43e; &#x440;&#x438;&#x441; 2.1" FOLDED="true" ID="ID_832395283" CREATED="1581085297271" MODIFIED="1581085305477">
+<font BOLD="true"/>
+<node TEXT="9798_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" ID="ID_20194362" CREATED="1581085311763" MODIFIED="1581085311763">
+<hook URI="Eltech_files/9798_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="0.5714286" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x41f;&#x440;&#x438;&#x440;&#x430;&#x449;&#x435;&#x43d;&#x438;&#x435; &#x431;&#x430;&#x437;&#x430;-&#x44d;&#x43c;&#x438;&#x442;&#x442;&#x435;&#x440;" FOLDED="true" ID="ID_23749928" CREATED="1581085329748" MODIFIED="1581085339123">
+<font BOLD="true"/>
+<node TEXT="9797_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" ID="ID_761605938" CREATED="1581085347469" MODIFIED="1581085347469">
+<hook URI="Eltech_files/9797_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="0.74626863" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x412;&#x445;&#x43e;&#x434;&#x43d;&#x43e;&#x435; &#x441;&#x43e;&#x43f;&#x440;&#x43e;&#x442;&#x438;&#x432;&#x43b;&#x435;&#x43d;&#x438;&#x435;" FOLDED="true" ID="ID_1858675354" CREATED="1581085364041" MODIFIED="1581085368908">
+<font BOLD="true"/>
+<node TEXT="9796_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" ID="ID_545688314" CREATED="1581085372870" MODIFIED="1581085372870">
+<hook URI="Eltech_files/9796_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="1.0" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x420;&#x438;&#x441;&#x443;&#x43d;&#x43e;&#x43a; 2.2" FOLDED="true" ID="ID_1797907361" CREATED="1581085414270" MODIFIED="1581085417670">
+<font BOLD="true"/>
+<node TEXT="9794_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" ID="ID_1548100776" CREATED="1581085460070" MODIFIED="1581085460070">
+<hook URI="Eltech_files/9794_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="0.6369427" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x41f;&#x43e; &#x432;&#x44b;&#x445;&#x43e;&#x434;&#x43d;&#x44b;&#x43c; h-&#x43f;&#x430;&#x440;&#x430;&#x43c;&#x435;&#x442;&#x440;&#x44b; (&#x440;&#x438;&#x441; 2.2)" FOLDED="true" ID="ID_121826325" CREATED="1581085390230" MODIFIED="1581085405128">
+<font BOLD="true"/>
+<node TEXT="9795_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" ID="ID_638617170" CREATED="1581085410401" MODIFIED="1581085410401">
+<hook URI="Eltech_files/9795_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="0.57471263" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x41f;&#x43e; &#x43f;&#x440;&#x438;&#x440;&#x430;&#x449;&#x435;&#x43d;&#x438;&#x44f;&#x43c; &#x442;&#x43e;&#x43a;&#x43e;&#x432;, &#x43a;&#x43e;&#x44d;&#x444;&#x444;&#x438;&#x446;&#x438;&#x435;&#x43d;&#x442;" FOLDED="true" ID="ID_100951141" CREATED="1581085485297" MODIFIED="1581085503751">
+<font BOLD="true"/>
+<node TEXT="9793_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" ID="ID_650134509" CREATED="1581085502113" MODIFIED="1581085502113">
+<hook URI="Eltech_files/9793_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="0.57361376" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x412;&#x44b;&#x445;&#x43e;&#x434;&#x43d;&#x430;&#x44f; &#x43f;&#x440;&#x43e;&#x432;&#x43e;&#x434;&#x438;&#x43c;&#x43e;&#x441;&#x442;&#x44c; (&#x440;&#x438;&#x441; 2.3)" FOLDED="true" ID="ID_1997967568" CREATED="1581085525289" MODIFIED="1581085539860">
+<font BOLD="true"/>
+<node TEXT="9792_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" ID="ID_1793328938" CREATED="1581085545726" MODIFIED="1581085545726">
+<hook URI="Eltech_files/9792_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="0.74812967" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x420;&#x438;&#x441;&#x443;&#x43d;&#x43e;&#x43a; 2.3" FOLDED="true" ID="ID_829949387" CREATED="1581085565312" MODIFIED="1581085570023">
+<font BOLD="true"/>
+<node TEXT="9791_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" ID="ID_1035073560" CREATED="1581085574422" MODIFIED="1581085574422">
+<hook URI="Eltech_files/9791_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="0.74812967" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x412;&#x44b;&#x445;&#x43e;&#x434;&#x43d;&#x430;&#x44f; &#x43f;&#x440;&#x43e;&#x432;&#x43e;&#x434;&#x438;&#x43c;&#x43e;&#x441;&#x442;&#x44c;, &#x43f;&#x43e; &#x43f;&#x440;&#x438;&#x440;&#x430;&#x449;&#x435;&#x43d;&#x438;&#x44f;&#x43c;" FOLDED="true" ID="ID_202919407" CREATED="1581085602780" MODIFIED="1581085614401">
+<font BOLD="true"/>
+<node TEXT="9790_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" ID="ID_1269097448" CREATED="1581085619939" MODIFIED="1581085619939">
+<hook URI="Eltech_files/9790_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="0.56925994" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x41f;&#x43e;&#x447;&#x435;&#x43c;&#x443; &#x43e;&#x431;&#x44b;&#x447;&#x43d;&#x43e; &#x43d;&#x435; &#x43e;&#x43f;&#x440;&#x435;&#x434;&#x435;&#x43b;&#x44f;&#x435;&#x442;&#x441;&#x44f;" FOLDED="true" ID="ID_1577747725" CREATED="1581085638453" MODIFIED="1581085652930">
+<font BOLD="true"/>
+<node TEXT="9789_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" ID="ID_1389830128" CREATED="1581085652165" MODIFIED="1581085652165">
+<hook URI="Eltech_files/9789_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="0.56710774" NAME="ExternalObject"/>
+</node>
+</node>
 </node>
 </node>
 </node>
