@@ -1147,7 +1147,7 @@
 </node>
 </node>
 </node>
-<node TEXT="&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435; 4" ID="ID_461238023" CREATED="1580838995249" MODIFIED="1580898151786">
+<node TEXT="&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435; 4" FOLDED="true" ID="ID_461238023" CREATED="1580838995249" MODIFIED="1580898151786">
 <font BOLD="true"/>
 <node TEXT="&#x413;&#x434;&#x435; &#x431;&#x440;&#x430;&#x442;&#x44c; &#x434;&#x430;&#x43d;&#x43d;&#x44b;&#x435;" FOLDED="true" ID="ID_384040818" CREATED="1580839010955" MODIFIED="1580839014122">
 <font BOLD="true"/>
@@ -1161,12 +1161,12 @@
 <hook URI="Eltech_files/9875_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="0.84985834" NAME="ExternalObject"/>
 </node>
 </node>
-<node TEXT="&#x41c;&#x43e;&#x439; &#x432;&#x430;&#x440;&#x438;&#x430;&#x43d;&#x442;" FOLDED="true" ID="ID_635112343" CREATED="1581050462150" MODIFIED="1581050695620">
+<node TEXT="&#x41c;&#x43e;&#x439; &#x432;&#x430;&#x440;&#x438;&#x430;&#x43d;&#x442;" FOLDED="true" ID="ID_635112343" CREATED="1581050462150" MODIFIED="1581428265443">
 <font BOLD="true"/>
 <node TEXT="9846_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" ID="ID_332008882" CREATED="1581050492687" MODIFIED="1581050492687">
 <hook URI="Eltech_files/9846_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="0.85470086" NAME="ExternalObject"/>
 </node>
-<node TEXT="9847_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" ID="ID_1180775028" CREATED="1581050478635" MODIFIED="1581050695619">
+<node TEXT="9847_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" ID="ID_1180775028" CREATED="1581050478635" MODIFIED="1581428265443">
 <hook URI="Eltech_files/9847_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="0.9202454" NAME="ExternalObject"/>
 </node>
 </node>
@@ -1200,7 +1200,7 @@
 <hook URI="Eltech_files/9840_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="0.5976096" NAME="ExternalObject"/>
 </node>
 </node>
-<node TEXT="&#x41f;&#x440;&#x438;&#x43b;&#x43e;&#x436;&#x435;&#x43d;&#x438;&#x435; 1" ID="ID_67026570" CREATED="1581050438865" MODIFIED="1581050445862">
+<node TEXT="&#x41f;&#x440;&#x438;&#x43b;&#x43e;&#x436;&#x435;&#x43d;&#x438;&#x435; 1" FOLDED="true" ID="ID_67026570" CREATED="1581050438865" MODIFIED="1581050445862">
 <font BOLD="true"/>
 <node TEXT="&#x41a;&#x422;605&#x410;" FOLDED="true" ID="ID_1347761275" CREATED="1581050581592" MODIFIED="1581050592236">
 <font BOLD="true"/>
@@ -1212,7 +1212,7 @@
 </node>
 </node>
 </node>
-<node TEXT="&#x41f;&#x440;&#x438;&#x43c;&#x435;&#x440; &#x440;&#x435;&#x448;&#x435;&#x43d;&#x438;&#x44f;" ID="ID_688736238" CREATED="1581050879539" MODIFIED="1581050882423">
+<node TEXT="&#x41f;&#x440;&#x438;&#x43c;&#x435;&#x440; &#x440;&#x435;&#x448;&#x435;&#x43d;&#x438;&#x44f;" FOLDED="true" ID="ID_688736238" CREATED="1581050879539" MODIFIED="1581050882423">
 <font BOLD="true"/>
 <node TEXT="&#x427;&#x442;&#x43e; &#x434;&#x430;&#x43d;&#x43e;" FOLDED="true" ID="ID_1607133997" CREATED="1581081184412" MODIFIED="1581081188796">
 <font BOLD="true"/>
@@ -1243,7 +1243,7 @@
 <hook URI="Eltech_files/9835_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="0.96" NAME="ExternalObject"/>
 </node>
 </node>
-<node TEXT="&#x410;&#x43c;&#x43f;&#x43b;&#x438;&#x442;&#x443;&#x434;&#x430;" FOLDED="true" ID="ID_919763455" CREATED="1581081401278" MODIFIED="1581081408532">
+<node TEXT="&#x410;&#x43c;&#x43f;&#x43b;&#x438;&#x442;&#x443;&#x434;&#x430;" ID="ID_919763455" CREATED="1581081401278" MODIFIED="1581081408532">
 <font BOLD="true"/>
 <node TEXT="9834_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" ID="ID_1906307564" CREATED="1581081415272" MODIFIED="1581081415272">
 <hook URI="Eltech_files/9834_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="1.0" NAME="ExternalObject"/>
@@ -1424,7 +1424,7 @@
 <hook URI="Eltech_files/9804_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="0.729927" NAME="ExternalObject"/>
 </node>
 </node>
-<node TEXT="&#x41e;&#x43f;&#x440;&#x435;&#x434;&#x435;&#x43b;&#x44f;&#x435;&#x43c; &#x43a;&#x43e;&#x44d;&#x444;&#x444;&#x438;&#x446;&#x438;&#x435;&#x43d;&#x442;&#x44b;" ID="ID_404823788" CREATED="1581085094433" MODIFIED="1581085101203">
+<node TEXT="&#x41e;&#x43f;&#x440;&#x435;&#x434;&#x435;&#x43b;&#x44f;&#x435;&#x43c; &#x43a;&#x43e;&#x44d;&#x444;&#x444;&#x438;&#x446;&#x438;&#x435;&#x43d;&#x442;&#x44b;" FOLDED="true" ID="ID_404823788" CREATED="1581085094433" MODIFIED="1581085101203">
 <font BOLD="true"/>
 <node TEXT="9803_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" ID="ID_469234942" CREATED="1581085105992" MODIFIED="1581085105992">
 <hook URI="Eltech_files/9803_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="0.78125" NAME="ExternalObject"/>
@@ -1448,16 +1448,16 @@
 <hook URI="Eltech_files/9800_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="0.8321775" NAME="ExternalObject"/>
 </node>
 </node>
-<node TEXT="&#x420;&#x438;&#x441;&#x443;&#x43d;&#x43e;&#x43a; 2.1" FOLDED="true" ID="ID_102841747" CREATED="1581085270229" MODIFIED="1581085276079">
-<font BOLD="true"/>
-<node TEXT="9799_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" ID="ID_1686788518" CREATED="1581085277733" MODIFIED="1581085277733">
-<hook URI="Eltech_files/9799_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="0.75" NAME="ExternalObject"/>
-</node>
-</node>
 <node TEXT="h-&#x43f;&#x430;&#x440;&#x430;&#x43c;&#x435;&#x442;&#x440;&#x44b; &#x43f;&#x43e; &#x440;&#x438;&#x441; 2.1" FOLDED="true" ID="ID_832395283" CREATED="1581085297271" MODIFIED="1581085305477">
 <font BOLD="true"/>
 <node TEXT="9798_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" ID="ID_20194362" CREATED="1581085311763" MODIFIED="1581085311763">
 <hook URI="Eltech_files/9798_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="0.5714286" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x420;&#x438;&#x441;&#x443;&#x43d;&#x43e;&#x43a; 2.1" FOLDED="true" ID="ID_102841747" CREATED="1581085270229" MODIFIED="1581085276079">
+<font BOLD="true"/>
+<node TEXT="9799_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" ID="ID_1686788518" CREATED="1581085277733" MODIFIED="1581085277733">
+<hook URI="Eltech_files/9799_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="0.75" NAME="ExternalObject"/>
 </node>
 </node>
 <node TEXT="&#x41f;&#x440;&#x438;&#x440;&#x430;&#x449;&#x435;&#x43d;&#x438;&#x435; &#x431;&#x430;&#x437;&#x430;-&#x44d;&#x43c;&#x438;&#x442;&#x442;&#x435;&#x440;" FOLDED="true" ID="ID_23749928" CREATED="1581085329748" MODIFIED="1581085339123">
@@ -1472,16 +1472,16 @@
 <hook URI="Eltech_files/9796_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="1.0" NAME="ExternalObject"/>
 </node>
 </node>
-<node TEXT="&#x420;&#x438;&#x441;&#x443;&#x43d;&#x43e;&#x43a; 2.2" FOLDED="true" ID="ID_1797907361" CREATED="1581085414270" MODIFIED="1581085417670">
-<font BOLD="true"/>
-<node TEXT="9794_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" ID="ID_1548100776" CREATED="1581085460070" MODIFIED="1581085460070">
-<hook URI="Eltech_files/9794_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="0.6369427" NAME="ExternalObject"/>
-</node>
-</node>
 <node TEXT="&#x41f;&#x43e; &#x432;&#x44b;&#x445;&#x43e;&#x434;&#x43d;&#x44b;&#x43c; h-&#x43f;&#x430;&#x440;&#x430;&#x43c;&#x435;&#x442;&#x440;&#x44b; (&#x440;&#x438;&#x441; 2.2)" FOLDED="true" ID="ID_121826325" CREATED="1581085390230" MODIFIED="1581085405128">
 <font BOLD="true"/>
 <node TEXT="9795_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" ID="ID_638617170" CREATED="1581085410401" MODIFIED="1581085410401">
 <hook URI="Eltech_files/9795_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="0.57471263" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x420;&#x438;&#x441;&#x443;&#x43d;&#x43e;&#x43a; 2.2" FOLDED="true" ID="ID_1797907361" CREATED="1581085414270" MODIFIED="1581085417670">
+<font BOLD="true"/>
+<node TEXT="9794_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" ID="ID_1548100776" CREATED="1581085460070" MODIFIED="1581085460070">
+<hook URI="Eltech_files/9794_&#x417;&#x430;&#x434;&#x430;&#x43d;&#x438;&#x435;_04.png" SIZE="0.6369427" NAME="ExternalObject"/>
 </node>
 </node>
 <node TEXT="&#x41f;&#x43e; &#x43f;&#x440;&#x438;&#x440;&#x430;&#x449;&#x435;&#x43d;&#x438;&#x44f;&#x43c; &#x442;&#x43e;&#x43a;&#x43e;&#x432;, &#x43a;&#x43e;&#x44d;&#x444;&#x444;&#x438;&#x446;&#x438;&#x435;&#x43d;&#x442;" FOLDED="true" ID="ID_100951141" CREATED="1581085485297" MODIFIED="1581085503751">
